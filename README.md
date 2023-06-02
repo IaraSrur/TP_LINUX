@@ -1,2 +1,2 @@
 # TP_LINUX
-Alumnos: Agustin Bonnaluc, Juan Cruz Canoniero, Jharid, Iara Srur.
+Alumnos: Agustin Bonnaluc, Juan Cruz Canoniero, Jharid Garcia, Iara Srur.
